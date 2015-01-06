@@ -14,6 +14,7 @@ public class Test2 {
 		System.out.println("Test");
 		System.out.println("Test");
 		System.out.println("호로록");
+		System.out.println("호로록");
 	}
 
 }
